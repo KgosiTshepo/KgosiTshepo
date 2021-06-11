@@ -1,6 +1,6 @@
 ## About Me 🤷🏽‍♂️
 
-Hi 👋🏻 , my name is Kgosi Tshepo Bahula,I'm a Software Developer/Security Consultant from Centurion, South Africa.
+Hi 👋🏻 , my name is Kgosi Tshepo Bahula,I'm a Software Developer/Security Consultant from Centurion, South Africa 🇿🇦
 
 You can find my digital footprint here: [Twitter](https://twitter.com/kgosi_cs/) and [LinkedIn](https://www.linkedin.com/in/kgositshepobahula/)
 <hr>
